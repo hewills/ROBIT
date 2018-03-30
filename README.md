@@ -1,7 +1,7 @@
-#Robit the slack bot#   
+# Robit the slack bot #   
 ![Robit](robit.gif)
    
-##Robit (the OBI bot) was created to do simple but useful everyday tasks##   
+## Robit (the OBI bot) was created to do simple but useful everyday tasks ##   
 Such as...   
 **Quickly lookup a user role**   
 **Server alerts**   
