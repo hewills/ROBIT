@@ -1,11 +1,11 @@
 # Robit the slack bot #   
 ![Robit](robit.gif)
    
-## Robit (the OBI bot) was created to do simple but useful everyday tasks ##   
+## Robit was created to do simple but useful tasks in Slack chat ##   
 Such as...   
-**Quickly lookup a user role**   
+**Quickly lookup data from a database (ex. user role)**     
 **Server alerts**   
-**Application load info**   
+**Application CPU load info**   
 **Play a chat team game**   
    
 
